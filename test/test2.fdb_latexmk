@@ -1,7 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1741074254.79905 "/Users/nishantmac/Documents/latex/test/test2.tex" "test2.pdf" "test2" 1741074255.16557 0
-  "/Users/nishantmac/Documents/latex/test/test2.tex" 1741074254.60057 83 e192c7f16157655efe20e001076d40e8 ""
+["pdflatex"] 1741096876.11393 "/Users/nishantmac/Documents/latex/test/test2.tex" "test2.pdf" "test2" 1741096876.51905 0
+  "/Users/nishantmac/Documents/latex/test/test2.tex" 1741096875.90978 207 16ab24dd1cb4809a88139be7a16e5a4c ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1248133631 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1248133631 32762 224316ccc9ad3ca0423a14971cfa7fc1 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls" 1705352648 20144 147463a6a579f4597269ef9565205cfe ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/base/size10.clo" 1705352648 8448 dbc0dbf4156c0bb9ba01a1c685d3bad0 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1708463273 30006 3d512c0edd558928ddea1690180ef77e ""
@@ -9,8 +11,8 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1741071558.9985 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1741071509 8221444 a65402a1fcc633c1b3dbf910d1469ed4 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "test2.aux" 1741074255.14948 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "test2.tex" 1741074254.60057 83 e192c7f16157655efe20e001076d40e8 ""
+  "test2.aux" 1741096876.48994 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "test2.tex" 1741096875.90978 207 16ab24dd1cb4809a88139be7a16e5a4c ""
   (generated)
   "test2.aux"
   "test2.log"
