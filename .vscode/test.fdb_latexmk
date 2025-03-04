@@ -1,0 +1,18 @@
+# Fdb version 4
+["pdflatex"] 1741073200.47793 "/Users/nishantmac/Documents/latex/.vscode/test.tex" "test.pdf" "test" 1741073200.85849 0
+  "/Users/nishantmac/Documents/latex/.vscode/test.tex" 1741073200.26348 111 5425226e76d905faaefd5286142e03fb ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
+  "/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls" 1705352648 20144 147463a6a579f4597269ef9565205cfe ""
+  "/usr/local/texlive/2024/texmf-dist/tex/latex/base/size10.clo" 1705352648 8448 dbc0dbf4156c0bb9ba01a1c685d3bad0 ""
+  "/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1708463273 30006 3d512c0edd558928ddea1690180ef77e ""
+  "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1708706663 41649 5d6ae549fbbcb850a863f69aa41f3d10 ""
+  "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1741071558.9985 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
+  "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1741071509 8221444 a65402a1fcc633c1b3dbf910d1469ed4 ""
+  "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
+  "test.aux" 1741073200.83825 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "test.tex" 1741073200.26348 111 5425226e76d905faaefd5286142e03fb ""
+  (generated)
+  "test.aux"
+  "test.log"
+  "test.pdf"
+  (rewritten before read)
