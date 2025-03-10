@@ -1,6 +1,7 @@
 \documentclass[]{article}
 \pagestyle{empty}
 \usepackage{amsmath, amsfonts, amssymb}
+\usepackage{float}
 \parindent 0px
 
 \begin{document}
@@ -78,6 +79,54 @@ $$  2 \left \langle \frac{2}{1^{2-1}} \right \rangle  $$
 $$  2 \left | \frac{2}{1^{2-1}} \right |  $$ 
 $$ \left. \frac{dy}{dx} \right| _{x=1} $$
 $$ \left( \frac{1}{1 + \left( \frac{1}{1+x} \right)} \right)  $$
+
+Tables \\[6pt]
+
+\begin{tabular}{|c|c|c|c|c|c|}
+    \hline
+
+    $ x $ & 1 & 2 & 3 & 4 & 5 \\ \hline
+    $ f(x) $ & 10 & 11 & 12 & 14 & 15  \\ \hline
+
+
+\end{tabular}
+
+\vspace{2cm}
+
+\begin{table}[H]
+    
+    \centering
+    \def\arraystretch{1.5}
+
+\begin{tabular}{|c|c|c|c|c|c|}
+    \hline
+
+    $ x $ & 1 & 2 & 3 & 4 & 5 \\ \hline
+    $ f(x) $ & $ \frac{1}{2} $ & 11 & 12 & 14 & 15  \\ \hline
+
+
+\end{tabular}
+
+\caption{these value $ f(x) $}
+
+\end{table}
+
+Arrays \\[6pt]
+
+\begin{align}
+5x^2-9=x+3 \\
+5x^2-9=x+3 
+\end{align}
+
+\begin{align*}
+    5x^2-9=x+3 \\
+    5x^2-9=x+3 
+    \end{align*}
+
+    \begin{align}
+        5x^2-9=x+3 \\
+        5x^2-9=x+3 
+        \end{align}
 
 
 \end{document}

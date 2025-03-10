@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1741589171.27724 "/Users/nishantmac/Documents/latex/test/test2.tex" "test2.pdf" "test2" 1741589171.65095 0
-  "/Users/nishantmac/Documents/latex/test/test2.tex" 1741589171.0342 1700 75ae5f40ce39fecb4c7040519889b5ce ""
+["pdflatex"] 1741644803.505 "/Users/nishantmac/Documents/latex/test/test2.tex" "test2.pdf" "test2" 1741644803.89483 0
+  "/Users/nishantmac/Documents/latex/test/test2.tex" 1741644803.2561 2387 92bdb92c6fb7a600164f5c70c2b2d573 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -31,13 +31,14 @@
   "/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amstext.sty" 1686341992 2444 0d0c1ee65478277e8015d65b86983da2 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls" 1705352648 20144 147463a6a579f4597269ef9565205cfe ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/base/size10.clo" 1705352648 8448 dbc0dbf4156c0bb9ba01a1c685d3bad0 ""
+  "/usr/local/texlive/2024/texmf-dist/tex/latex/float/float.sty" 1137110151 6749 16d2656a1984957e674b149555f1ea1d ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1708463273 30006 3d512c0edd558928ddea1690180ef77e ""
   "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1708706663 41649 5d6ae549fbbcb850a863f69aa41f3d10 ""
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1741071558.9985 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1741071509 8221444 a65402a1fcc633c1b3dbf910d1469ed4 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "test2.aux" 1741589171.61721 32 ab05033ccbb38b00a31b200ccedf8001 "pdflatex"
-  "test2.tex" 1741589171.0342 1700 75ae5f40ce39fecb4c7040519889b5ce ""
+  "test2.aux" 1741644803.85833 154 f6f274fcfef536fb61c5843af4682b8a "pdflatex"
+  "test2.tex" 1741644803.2561 2387 92bdb92c6fb7a600164f5c70c2b2d573 ""
   (generated)
   "test2.aux"
   "test2.log"
