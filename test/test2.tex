@@ -2,9 +2,17 @@
 \pagestyle{empty}
 \usepackage{amsmath, amsfonts, amssymb}
 \usepackage{float}
+\usepackage{enumerate}
+\usepackage{hyperref}
 \parindent 0px
 
+\title{\LaTeX\ Document Learning}
+\author{Nishant Yadav}
+\date{\today}
+
 \begin{document}
+\tableofcontents
+\maketitle
 
 Hello, This my first \LaTeX\ document!
 
@@ -127,6 +135,109 @@ Arrays \\[6pt]
         5x^2-9=x+3 \\
         5x^2-9=x+3 
         \end{align}
+
+ Lists \\[6pt]
+
+ \begin{enumerate}
+\item nishu
+\item deepak
+\item neelam
+   \begin{enumerate}
+    \item gla
+    \item bank
+   \end{enumerate}
+\item last   
+    
+ \end{enumerate}
+
+ \vspace{2cm}
+
+
+ \begin{enumerate}[A.]
+    \item nishu
+    \item deepak
+    \item neelam
+ \end{enumerate}
+
+ \vspace{2cm}
+
+
+ \begin{enumerate}
+    \item[] nishu
+    \item[] deepak
+    \item[] neelam
+ \end{enumerate}
+
+
+ \vspace{2cm}
+
+ \begin{itemize}
+    \item nishu
+    \item deepak
+    \item neelam
+       \begin{itemize}
+        \item gla
+        \item bank
+       \end{itemize}
+    \item last   
+        
+     \end{itemize}
+
+
+
+ Text and Document Formatting \\[6pt]
+
+ this is a \textit{test}
+
+ this is a \textbf{test}
+
+ this is a \textsc{test}
+
+ this is a \texttt{test}
+
+ please visit \href{www.google.com}{google}
+
+\vspace{2cm}
+
+
+i am nishant yadav
+
+i am \begin{large} nishant yadav \end{large}
+
+i am \begin{Large} nishant yadav \end{Large}
+
+i am \begin{huge} nishant yadav \end{huge}
+
+i am \begin{Huge} nishant yadav \end{Huge}
+
+i am nishant yadav
+
+i am \begin{normalsize} nishant yadav \end{normalsize}
+
+i am \begin{small} nishant yadav \end{small}
+
+i am \begin{scriptsize} nishant yadav \end{scriptsize}
+
+i am \begin{tiny} nishant yadav \end{tiny}
+
+\vspace{2cm}
+
+\begin{center} this is a center \end{center}
+
+\begin{flushleft} this is a left \end{flushleft}
+
+\begin{flushright} this is a right \end{flushright}
+
+\vspace{2cm}
+
+
+\section{Lists}
+ \subsection{learning}
+ \subsection{thinking}
+\section{formatting}
+ \subsection{text}
+ \subsection{words} 
+
 
 
 \end{document}
